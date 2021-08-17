@@ -1,0 +1,19 @@
+.pagina-style{
+    border-radius: 20px;
+    width: 90%;
+    transition: transform .8s ease-in-out;
+    margin-bottom: 50px;
+
+    }
+.texto-aligno{
+    text-align: left;
+}
+
+.pagina-style:hover{
+    transform: scale(1.1);
+    cursor: pointer;
+}
+
+.miboton{
+    margin-bottom: 25px;
+}

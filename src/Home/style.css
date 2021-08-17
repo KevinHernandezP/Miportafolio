@@ -1,0 +1,14 @@
+.background{
+    background-image: url(./components/background.png);
+}
+
+.caja{
+    margin-top: 100px;
+}
+.imagen{
+    width: 59%;
+}
+.iconos{
+    margin-right: 25px;
+}
+

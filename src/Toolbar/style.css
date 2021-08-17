@@ -1,0 +1,8 @@
+.Texto{
+    color: white;
+    font-weight: bold;
+    margin: 0 30px;
+}
+.Texto:hover{
+    color: yellow !important;
+}
