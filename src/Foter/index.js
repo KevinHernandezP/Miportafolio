@@ -9,27 +9,27 @@ const Foter = () => {
                     <section class="mb-4">
                         <a
                             class="btn btn-link btn-floating btn-lg text-dark m-1"
-                            href="https://twitter.com/LuckPlayMc"
+                            href="https://twitter.com/LuckPlayMc" target="_blank"
                         ><i >  <FontAwesomeIcon icon={faTwitterSquare} size="2x" /></i></a>
 
                         <a
                             class="btn btn-link btn-floating btn-lg text-dark m-1"
-                            href="https://www.linkedin.com/in/kevin-hern%C3%A1ndez-0432591b0"
+                            href="https://www.linkedin.com/in/kevin-hern%C3%A1ndez-0432591b0" target="_blank"
                         ><i >  <FontAwesomeIcon icon={faLinkedin} size="2x" /></i></a>
 
                         <a
                             class="btn btn-link btn-floating btn-lg text-dark m-1"
-                            href="https://github.com/LuckplayMc"
+                            href="https://github.com/LuckplayMc" target="_blank"
                     
                         ><i >  <FontAwesomeIcon icon={faGithub} size="2x" /></i></a>
 
                         <a
                             class="btn btn-link btn-floating btn-lg text-dark m-1"
-                            href="Kevinmusicmc@gmail.com"
+                            href="Kevinmusicmc@gmail.com" target="_blank"
                         ><i >  <FontAwesomeIcon icon={faEnvelope} size="2x" /></i></a>
                         <a
                             class="btn btn-link btn-floating btn-lg text-dark m-1"
-                            href="https://www.instagram.com/luckplaymc"
+                            href="https://www.instagram.com/luckplaymc" target="_blank"
                         ><i >  <FontAwesomeIcon icon={faInstagram} size="2x" /></i></a>
                     </section>
                 </div>

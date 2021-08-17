@@ -17,17 +17,17 @@ const Home = () => {
 
                 <a
                   class="btn btn-link btn-floating btn-lg text-dark m-1"
-                  href="https://twitter.com/LuckPlayMc"
+                  href="https://twitter.com/LuckPlayMc" target="_blank"
                 ><i >  <FontAwesomeIcon icon={faTwitterSquare} size="2x" /></i></a>
 
                 <a
                   className="btn btn-link btn-floating btn-lg text-dark m-1"
-                  href="https://www.linkedin.com/in/kevin-hern%C3%A1ndez-0432591b0/"
+                  href="https://www.linkedin.com/in/kevin-hern%C3%A1ndez-0432591b0/" target="_blank"
                 ><i >  <FontAwesomeIcon icon={faLinkedin} size="2x" /></i></a>
 
                 <a
                   className="btn btn-link btn-floating btn-lg text-dark m-1"
-                  href="https://github.com/LuckplayMc"
+                  href="https://github.com/LuckplayMc"target="_blank"
 
                 ><i >  <FontAwesomeIcon icon={faGithub} size="2x" /></i></a>
               </div>
