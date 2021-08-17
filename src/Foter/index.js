@@ -1,4 +1,4 @@
-import { faGithub,faLinkedin,faTwitterSquare,faFacebookSquare,faInstagram} from '@fortawesome/free-brands-svg-icons'
+import { faGithub,faLinkedin,faTwitterSquare,faInstagram} from '@fortawesome/free-brands-svg-icons'
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { faEnvelope } from '@fortawesome/free-solid-svg-icons'
 const Foter = () => {

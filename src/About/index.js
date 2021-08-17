@@ -28,7 +28,7 @@ const About = () => {
                         <div className="row">
                             <div className="col-md-6 m-auto">
                                 <strong className="text-white">Name:</strong><p className="text-white">Kevin Hernandez</p>
-                                <strong className="text-white">Email:</strong> <a href="#">Kevinmusicmc@gmail.com</a>
+                                <strong className="text-white">Email:</strong> <a href="#aboutme">Kevinmusicmc@gmail.com</a>
                             </div>
                             <div className="col-md-6 m-auto">
                                 <strong className="text-white">Age:</strong><p className="text-white">23 Years old</p>
@@ -38,7 +38,7 @@ const About = () => {
                         </div>
                         <div className="row">
                             <div className="col-md-6 mt-3">
-                                <a href="#" className="btn btn-primary botones">Download Cv</a>
+                                <a href="#!" className="btn btn-primary botones">Download Cv</a>
                                 <a href="#workss" className="btn bg-white pr-5">My Works</a>
 
                             </div>

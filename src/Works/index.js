@@ -5,7 +5,7 @@ import webdos from "./Components/pagina.gif";
 const Works = () => {
   return (
     <div className="background-dos" id="workss">
-            <img src={logo} className="img-fluid p-5"></img>
+            <img src={logo} className="img-fluid p-5" alt="logo"></img>
 
       <div className="container">
     
