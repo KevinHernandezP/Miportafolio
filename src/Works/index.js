@@ -25,7 +25,7 @@ const Works = () => {
               </span>
 
               <div>
-                <a href="https://github.com/LuckplayMc/pizza-page" target="_blank" className="btn btn-primary mt-5 miboton">
+                <a href="https://github.com/LuckplayMc/pizza-page" target="_blank" rel="noreferrer" className="btn btn-primary mt-5 miboton">
                   Read more
                 </a>
               </div>

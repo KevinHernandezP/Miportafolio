@@ -11,7 +11,7 @@ const Toolbar = () => {
         <Navbar.Collapse id="responsive-navbar-nav">
           <Nav className="m-auto">
             <Nav.Link href="#home" className="Texto text-white">Home</Nav.Link>
-            <Nav.Link href="#workss" className="Texto text-white">Projects</Nav.Link>
+            <Nav.Link href="#workss"  className="Texto text-white">Projects</Nav.Link>
             <Nav.Link href="#skills" className="Texto text-white">Skills</Nav.Link>
             <Nav.Link href="#footer" className="Texto text-white">Contact Me</Nav.Link>
 
