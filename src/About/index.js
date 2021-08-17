@@ -38,7 +38,7 @@ const About = () => {
                         </div>
                         <div className="row">
                             <div className="col-md-6 mt-3">
-                                <a href="#!" className="btn btn-primary botones">Download Cv</a>
+                                <a href="https://drive.google.com/file/d/1uCar14XsFTxO3_bqe0j2KnDc_npKLIzI/view?usp=sharing" className="btn btn-primary botones">Download Cv</a>
                                 <a href="#workss" className="btn bg-white pr-5">My Works</a>
 
                             </div>
