@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/Miportafolio/static/css/main.549ab49f.chunk.css",
+    "main.js": "/Miportafolio/static/js/main.382f356d.chunk.js",
+    "main.js.map": "/Miportafolio/static/js/main.382f356d.chunk.js.map",
+    "runtime-main.js": "/Miportafolio/static/js/runtime-main.e63aa76d.js",
+    "runtime-main.js.map": "/Miportafolio/static/js/runtime-main.e63aa76d.js.map",
+    "static/js/2.35a393cb.chunk.js": "/Miportafolio/static/js/2.35a393cb.chunk.js",
+    "static/js/2.35a393cb.chunk.js.map": "/Miportafolio/static/js/2.35a393cb.chunk.js.map",
+    "static/js/3.fa73ed7e.chunk.js": "/Miportafolio/static/js/3.fa73ed7e.chunk.js",
+    "static/js/3.fa73ed7e.chunk.js.map": "/Miportafolio/static/js/3.fa73ed7e.chunk.js.map",
+    "index.html": "/Miportafolio/index.html",
+    "static/css/main.549ab49f.chunk.css.map": "/Miportafolio/static/css/main.549ab49f.chunk.css.map",
+    "static/js/2.35a393cb.chunk.js.LICENSE.txt": "/Miportafolio/static/js/2.35a393cb.chunk.js.LICENSE.txt",
+    "static/media/style.css": "/Miportafolio/static/media/background.47e73b54.png",
+    "static/media/bootstrap.4e0e53cc.svg": "/Miportafolio/static/media/bootstrap.4e0e53cc.svg",
+    "static/media/css.6686c1f3.svg": "/Miportafolio/static/media/css.6686c1f3.svg",
+    "static/media/figma.62b498ec.svg": "/Miportafolio/static/media/figma.62b498ec.svg",
+    "static/media/foto.4cb37cc6.png": "/Miportafolio/static/media/foto.4cb37cc6.png",
+    "static/media/git.2b252e4a.svg": "/Miportafolio/static/media/git.2b252e4a.svg",
+    "static/media/html.ee11c61f.svg": "/Miportafolio/static/media/html.ee11c61f.svg",
+    "static/media/javassc.37dac835.svg": "/Miportafolio/static/media/javassc.37dac835.svg",
+    "static/media/pagina.252f640d.gif": "/Miportafolio/static/media/pagina.252f640d.gif",
+    "static/media/persfil1.a380b77f.png": "/Miportafolio/static/media/persfil1.a380b77f.png",
+    "static/media/react.5c0f7321.svg": "/Miportafolio/static/media/react.5c0f7321.svg",
+    "static/media/sass.088fcde6.svg": "/Miportafolio/static/media/sass.088fcde6.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e63aa76d.js",
+    "static/js/2.35a393cb.chunk.js",
+    "static/css/main.549ab49f.chunk.css",
+    "static/js/main.382f356d.chunk.js"
+  ]
+}
