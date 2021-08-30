@@ -18,10 +18,7 @@ const Works = () => {
               <h3 className="text-white">Pizzahoot</h3>
               <p className="text-white">May-07-2021</p>
               <span className="text-white">
-                Lorem ipsum dolor, sit amet consectetur adipisicing elit. Ullam
-                corrupti quo ipsam vitae maiores recusandae?Lorem ipsum dolor,
-                sit amet consectetur adipisicing elit. Ullam corrupti quo ipsam
-                vitae maiores recusandae?
+                Esta es una pagina web que diseñe para una pizzeria la hice usando React y Bootstrap
               </span>
 
               <div>
